@@ -6,7 +6,7 @@ Algoritma:
 4.Tampilkan Volume
 
 Pseudocode:
-1.Input 3
-2.Input 5
+1.Input jari-jari 3
+2.Input tinggi 5
 3.Volume=pi*jari-jari kuadrat*tinggi
 4.Print Volume

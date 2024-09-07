@@ -1,17 +1,18 @@
 Algoritma:
 
-Masukan nilai 3
-Masukan nilai 4
-Nilai FPB dari 3 dan 4 adalah 1
-KPK 3,4=1
-Hitung dengan rumus KPK(3,4)=3×4/1=12
-3x4=12
-Nilai KPK dari 3 dan 4 adalah 12
+1.Masukan nilai 3
+2.Masukan nilai 4
+3.ilai FPB dari 3 dan 4 adalah 1
+4.KPK 3,4=1
+5.Hitung dengan rumus KPK(3,4)=3×4/1=12
+6.3x4=12
+7.Nilai KPK dari 3 dan 4 adalah 12
 
 
 Pseudocode:
-Input 3
-Input 4
-FPB 3,4=1
-KPK 3*4/1=12
-Print KPK
+
+1.Input 3
+2.Input 4
+3.FPB 3,4=1
+4.KPK 3*4/1=12
+5.Print KPK
